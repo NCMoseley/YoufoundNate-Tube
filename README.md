@@ -1,4 +1,4 @@
-<img src="https://github.com/NCMoseley/YoufoundNate-Tube/blob/master/assets/YFNT%20logo.png" width="30" height="30" /># You Found Nate Tube
+<img src="https://github.com/NCMoseley/YoufoundNate-Tube/blob/master/assets/YFNT%20logo.png" width="20" height="20" /># You Found Nate Tube
 
 ![Screen Shot](https://github.com/NCMoseley/YoufoundNate-Tube/blob/master/assets/Screen%20Shot.png)
 
