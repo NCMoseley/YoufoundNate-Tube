@@ -1,5 +1,7 @@
 # You Found Nate Tube
 
+![Screen Shot](https://github.com/NCMoseley/YoufoundNate-Tube/blob/master/assets/Screen%20Shot.png)
+
 Small React App completed during a React/Redux Udemy Coourse.
 
 #### Familiar with Git?
