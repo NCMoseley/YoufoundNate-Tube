@@ -19,7 +19,7 @@ const VideoDetail = ({ video }) => {
           {moment(video.snippet.publishedAt).format("dddd, MMMM Do YYYY")}
         </div>
         <div>{(video.snippet.title, console.log(video))}</div>
-        <div>{video.snippet.description}</div>
+        <div className="description">{video.snippet.description}</div>
       </div>
     </div>
   );
