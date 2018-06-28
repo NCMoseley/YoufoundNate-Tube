@@ -1,4 +1,4 @@
-![Icon](https://github.com/NCMoseley/YoufoundNate-Tube/blob/master/assets/YFNT%20logo.png =50x50)# You Found Nate Tube
+![Icon](https://github.com/NCMoseley/YoufoundNate-Tube/blob/master/assets/YFNT%20logo.png | width=50)# You Found Nate Tube
 
 ![Screen Shot](https://github.com/NCMoseley/YoufoundNate-Tube/blob/master/assets/Screen%20Shot.png)
 
